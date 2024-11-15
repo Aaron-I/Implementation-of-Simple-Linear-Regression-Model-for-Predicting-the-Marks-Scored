@@ -14,7 +14,7 @@ To write a program to predict the marks scored by a student using the simple lin
 4. Predict: Use the model to predict outputs for the test data.
 5. Visualize: Plot the training and testing data with the regression line for visualization.
 6. Evaluate: Compute and display MSE, MAE, and RMSE to assess model performance.
-7. 
+   
 ## Program:
 ```
 /*
